@@ -1,0 +1,12 @@
+streamlit==1.64.0
+psycopg[binary]==3.3.6
+pydantic==2.13.5
+python-dotenv==1.2.3
+google-genai==1.75.0
+groq==0.37.1
+boto3==1.43.104
+PyMuPDF==1.28.2
+python-pptx==1.0.2
+sympy==1.14.0
+Pillow==12.3.0
+numpy==2.5.3
